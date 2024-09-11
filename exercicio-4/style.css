@@ -1,0 +1,8 @@
+.div {
+    margin: 20px;
+    width: 300px;
+    background-color: lightgray;
+    border: 15px solid green;
+    text-align: justify;
+    padding: 40px;
+}

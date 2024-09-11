@@ -1,8 +1,17 @@
-.p {
-  text-align: center;
-  color: red;
-}
-.h1 {
-  text-align: center;
-  color: red;
-}
+  .p1 {
+    font-size: 24px;
+  }
+  .p2 {
+    text-align: center;
+    color: red;
+  }
+  .p3 {
+    font-size: 30px;
+    text-align: center;
+    color: red;
+  }
+  .div {
+    margin: auto;
+    margin-right: 73%;
+    border: 1px solid black;
+  }
